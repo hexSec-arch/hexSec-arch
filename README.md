@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hexsec-arch&label=Profile%20views&color=0e75b6&style=flat" alt="hexsec-arch" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hexsec-arch" alt="hexsec-arch" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_xencrypt" target="blank"><img src="https://img.shields.io/twitter/follow/_xencrypt?logo=twitter&style=for-the-badge" alt="_xencrypt" /></a> </p>
 
 - 💬 Ask me about **Python, JavaScript**
@@ -23,6 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hexsec-arch&show_icons=true&locale=en&layout=compact" alt="hexsec-arch" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hexsec-arch&show_icons=true&locale=en" alt="hexsec-arch" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hexsec-arch&" alt="hexsec-arch" /></p>
 
